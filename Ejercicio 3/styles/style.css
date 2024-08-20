@@ -1,0 +1,23 @@
+body{
+    background: rgb(32,30,67);
+background: linear-gradient(0deg, rgba(32,30,67,1) 0%, rgba(19,75,112,1) 40%, rgba(80,140,155,1) 72%, rgba(238,238,238,1) 100%);
+}
+div.hello{
+    border: 1px solid black;
+      padding: 10px 16px 16px 0px;
+      margin: 0px 20px 0px 20px;
+  }
+p{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-family: "Matemasie", sans-serif;
+      font-size: 100px;
+      font-weight: 600;
+    font-style: normal;
+    text-align: center;
+}
+image{
+      hight: 50px;
+      
+}
